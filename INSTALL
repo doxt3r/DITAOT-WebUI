@@ -1,0 +1,14 @@
+DITA OT WebGUI Installation
+
+1. Download a copy of the dita-ot-webgui-0.0.1.tar.gz to your system
+	http://www3.webnetix.co.za/dita-ot-webgui-0.0.1.tar.gz
+
+2. Extract the tarball inside an existing DITA toolkit accessible to your webserver
+	
+	tar -xvzf ./dita-ot-webgui-0.0.1.tar.gz
+
+3. Navigate to the WebGui 
+	http://localhost/DITA-OT1.4.1/web/
+	
+That should about cover it :)
+

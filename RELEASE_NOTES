@@ -1,0 +1,21 @@
+0.0.1 (2007-12-20)
+	* Initial Beta Release
+	* The DITA OT WebGUI System allows for a friendlier interface to building DITA content
+	* Minimal Conditional Processing
+	* Basic directory recursion for map discovery
+	* Basic discovery of existing DITA transforms
+	
+ToDo
+	* Add feature for selecting custom XSL stylesheets
+	* Extend conditional processing features
+	* Add output interface for browsing various deliverables
+	* Integrate Editor feature for updating content online
+	* Integrate Dita Map composer for creating DITA maps
+	* Possibly link into various Content Management Systems
+	* Add Support for Windows and Linux bases operating systems
+
+The WebGUI has been developed on Mac OS X Leopard with the Default DITA-OT1.4.1 toolkit from SourceForge. It should work on various Linux distros but has not been tested yet. 
+Windows support is on the way.
+
+Forward comments and suggestions to alex.griessel@webnetix.co.za
+	
